@@ -10,11 +10,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
 - **[Pakistan Tourism Guide](https://github.com/innasir06/tourism-guide)**: full-stack tourism website with authentication, destination search, tour package booking, cart, user dashboard, and admin panel. *(HTML, CSS, JavaScript, PHP, MySQL)*
-- **[LMS Software Requirements Specification](https://github.com/innasir06/lms-srs)**: complete SRS for a Learning Management System covering [functional and non-functional requirements, use cases, and UML diagrams]. *(IEEE-style documentation)*
+- **[Tuition Management System](https://github.com/innasir06/tuition-management-system)**: web app for managing students, attendance, fees, and exam results, with admin and student portals. *(PHP, MySQL, Bootstrap)*
+- **[LMS Software Requirements Specification](https://github.com/innasir06/lms-srs)**: IEEE-style SRS for a university Learning Management System with 35 functional requirements and UML use cases. *(UML, COMET)*
 
 ## 📫 Contact
-📧 innasir.06@gmail.com 
+📧 innasir.06@gmail.com
