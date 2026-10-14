@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 - **[Pakistan Tourism Guide](https://github.com/innasir06/tourism-guide)**: full-stack tourism website with authentication, destination search, tour package booking, cart, user dashboard, and admin panel. *(HTML, CSS, JavaScript, PHP, MySQL)*
-- **[Outfit Picker](https://github.com/innasir06/outfit-picker)**: web app that helps users choose outfits. *(HTML, CSS, JavaScript)*
+- **[LMS Software Requirements Specification](https://github.com/innasir06/lms-srs)**: complete SRS for a Learning Management System covering [functional and non-functional requirements, use cases, and UML diagrams]. *(IEEE-style documentation)*
 
 ## 📫 Contact
 📧 innasir.06@gmail.com 
