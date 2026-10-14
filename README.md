@@ -17,4 +17,4 @@
 - **[Outfit Picker](https://github.com/innasir06/outfit-picker)**: web app that helps users choose outfits. *(HTML, CSS, JavaScript)*
 
 ## 📫 Contact
-📧 innasir.06@gmail.com 03029294144
+📧 innasir.06@gmail.com 
